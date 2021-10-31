@@ -105,12 +105,12 @@ li.dropdown {
 .main-nav{
 	list-style: none;
 	float: right;
-	margin-top: 50px;
+	margin-top: 51px;
 }
 
 .main-nav li{
 	display: inline-block;
-	margin-right: 50px;
+	margin-right: 51px;
 	text-transform: uppercase;
 }
 
